@@ -4,21 +4,21 @@
 
 Website ini adalah hasil dari dari mata kuliah Pemrograman Web Lanjut
 
-# Fitur :
+## Fitur :
 
-**1. Create**
-**2. Read**
-**3. Update**
-**4. Delete**
+1. Create
+2. Read
+3. Update
+4. Delete
 
-# Website ini dibangun dengan :
+## Website ini dibangun dengan :
 
 1. PHP Native
 2. MySql
 3. Boostrap
 4. Sweetalert
 
-# Instalasi :
+## Instalasi :
 
 1. Download source code
 2. Ekstrak source code
